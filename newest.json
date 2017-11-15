@@ -3,17 +3,101 @@
     "areas": [
         {
             "id": 0,
-            "name": "Guang dong",
+            "name": "广东",
             "stations": [
                 {
                     "id": 0,
-                    "name": "Guang Zhou",
+                    "name": "广州",
                     "channels": [
                         {
+                            "id": 1,
+                            "name": "新闻广播",
+                            "fmName": "FM 91.4",
+                            "url": "http://ctt5.rgd.com.cn/fm914"
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "珠江经济台",
+                            "fmName": "FM 97.4",
+                            "url": "http://ctt5.rgd.com.cn/fm974"
+                        },
+                        
+                        {
                             "id": 0,
-                            "name": "Yin Yue Zhi Sheng",
+                            "name": "音乐之声",
                             "fmName": "FM 99.3",
                             "url": "http://ctt5.rgd.com.cn/fm993"
+                        },
+                        
+                        {
+                            "id": 3,
+                            "name": "城市之声",
+                            "fmName": "FM 103.6",
+                            "url": "http://ctt5.rgd.com.cn/fm1036"
+                        },
+                        
+                        {
+                            "id": 4,
+                            "name": "南方生活广播",
+                            "fmName": "FM 93.6",
+                            "url": "http://ctt5.rgd.com.cn/fm936"
+                        },
+                        
+                        {
+                            "id": 5,
+                            "name": "交通之声",
+                            "fmName": "FM 105.2",
+                            "url": "http://ctt5.rgd.com.cn/fm1052"
+                        },
+                        
+                        {
+                            "id": 6,
+                            "name": "文体之声",
+                            "fmName": "FM 107.7",
+                            "url": "http://ctt5.rgd.com.cn/fm1077"
+                        },
+                        
+                        {
+                            "id": 7,
+                            "name": "股市广播",
+                            "fmName": "FM 95.3",
+                            "url": "http://ctt5.rgd.com.cn/fm953"
+                        },
+                        
+                        {
+                            "id": 8,
+                            "name": "南粤之声",
+                            "fmName": "FM 105.7",
+                            "url": "http://ctt5.rgd.com.cn/fm1057"
+                        },
+                        
+                        {
+                            "id": 9,
+                            "name": "故事频道",
+                            "fmName": "Story",
+                            "url": "http://ctt5.rgd.com.cn/story"
+                        },
+                        
+                        {
+                            "id": 10,
+                            "name": "大学生频道",
+                            "fmName": "FM 97.4",
+                            "url": "http://ctt5.rgd.com.cn/fm974"
+                        },
+                        
+                        {
+                            "id": 11,
+                            "name": "果酱电台",
+                            "fmName": "FM 99.3",
+                            "url": "http://ctt5.rgd.com.cn/fm993"
+                        },
+                        
+                        {
+                            "id": 12,
+                            "name": "HIFI 频道",
+                            "fmName": "HIFI",
+                            "url": "http://ctt5.rgd.com.cn/hifi"
                         }
                     ]
                 }
