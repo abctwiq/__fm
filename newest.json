@@ -2,12 +2,15 @@
     "version": 100,
     "areas": [
         {
+            "id": 0,
             "name": "Guang dong",
             "stations": [
                 {
+                    "id": 0,
                     "name": "Guang Zhou",
                     "channels": [
                         {
+                            "id": 0,
                             "name": "Yin Yue Zhi Sheng",
                             "fmName": "FM 99.3",
                             "url": "http://ctt5.rgd.com.cn/fm993"
