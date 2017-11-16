@@ -22,82 +22,240 @@
                             "fmName": "FM 97.4",
                             "url": "http://ctt5.rgd.com.cn/fm974"
                         },
-                        
+
                         {
                             "id": 0,
                             "name": "音乐之声",
                             "fmName": "FM 99.3",
                             "url": "http://ctt5.rgd.com.cn/fm993"
                         },
-                        
+
                         {
                             "id": 3,
                             "name": "城市之声",
                             "fmName": "FM 103.6",
                             "url": "http://ctt5.rgd.com.cn/fm1036"
                         },
-                        
+
                         {
                             "id": 4,
                             "name": "南方生活广播",
                             "fmName": "FM 93.6",
                             "url": "http://ctt5.rgd.com.cn/fm936"
                         },
-                        
+
                         {
                             "id": 5,
                             "name": "交通之声",
                             "fmName": "FM 105.2",
                             "url": "http://ctt5.rgd.com.cn/fm1052"
                         },
-                        
+
                         {
                             "id": 6,
                             "name": "文体之声",
                             "fmName": "FM 107.7",
                             "url": "http://ctt5.rgd.com.cn/fm1077"
                         },
-                        
+
                         {
                             "id": 7,
                             "name": "股市广播",
                             "fmName": "FM 95.3",
                             "url": "http://ctt5.rgd.com.cn/fm953"
                         },
-                        
+
                         {
                             "id": 8,
                             "name": "南粤之声",
                             "fmName": "FM 105.7",
                             "url": "http://ctt5.rgd.com.cn/fm1057"
                         },
-                        
+
                         {
                             "id": 9,
                             "name": "故事频道",
                             "fmName": "Story",
                             "url": "http://ctt5.rgd.com.cn/story"
                         },
-                        
+
                         {
                             "id": 10,
                             "name": "大学生频道",
                             "fmName": "FM 97.4",
                             "url": "http://ctt5.rgd.com.cn/fm974"
                         },
-                        
+
                         {
                             "id": 11,
                             "name": "果酱电台",
                             "fmName": "FM 99.3",
                             "url": "http://ctt5.rgd.com.cn/fm993"
                         },
-                        
+
                         {
                             "id": 12,
                             "name": "HIFI 频道",
                             "fmName": "HIFI",
                             "url": "http://ctt5.rgd.com.cn/hifi"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": 1,
+            "name": "BBC",
+            "stations": [
+                {
+                    "id": 100,
+                    "name": "Radio",
+                    "channels": [
+                        {
+                            "id": 101,
+                            "name": "Radio 1",
+                            "fmName": "Mainstream",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_q"
+                        },
+
+                        {
+                            "id": 102,
+                            "name": "Radio 2",
+                            "fmName": "Mainstream",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_q"
+                        },
+
+                        {
+                            "id": 103,
+                            "name": "Radio 3",
+                            "fmName": "Classical",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_q"
+                        },
+
+                        {
+                            "id": 104,
+                            "name": "Radio 4 extra",
+                            "fmName": "News",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_q"
+                        },
+
+                        {
+                            "id": 105,
+                            "name": "Radio 4 long wave",
+                            "fmName": "Long Wave",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_q"
+                        },
+
+                        {
+                            "id": 106,
+                            "name": "Radio 5 live",
+                            "fmName": "Sports",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_q"
+                        },
+
+                        {
+                            "id": 107,
+                            "name": "Radio 6 music",
+                            "fmName": "Music",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p"
+                        }
+                    ]
+                },
+
+                {
+                    "id": 200,
+                    "name": "World Service",
+                    "channels": [
+                        {
+                            "id": 201,
+                            "name": "News",
+                            "fmName": "News",
+                            "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup"
+                        },
+
+                        {
+                            "id": 202,
+                            "name": "Arabic",
+                            "fmName": "Arabic",
+                            "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba"
+                        },
+
+                        {
+                            "id": 203,
+                            "name": "London",
+                            "fmName": "FM 94.9",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p"
+                        },
+
+                        {
+                            "id": 204,
+                            "name": "Cambridgeshire",
+                            "fmName": "Cambridgeshire",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcambs_mf_p"
+                        },
+
+                        {
+                            "id": 205,
+                            "name": "Newcastle",
+                            "fmName": "Newcastle",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnewc_mf_p"
+                        },
+
+                        {
+                            "id": 206,
+                            "name": "Lancashire",
+                            "fmName": "Lancashire",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlancs_mf_q"
+                        },
+
+                        {
+                            "id": 207,
+                            "name": "Derby",
+                            "fmName": "Derby",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrderby_mf_p"
+                        },
+
+                        {
+                            "id": 208,
+                            "name": "Norfolk",
+                            "fmName": "Norfolk",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnorfolk_mf_p"
+                        },
+
+                        {
+                            "id": 209,
+                            "name": "Kent",
+                            "fmName": "Kent",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrkent_mf_p"
+                        },
+
+                        {
+                            "id": 210,
+                            "name": "Solent",
+                            "fmName": "Solent",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsolent_mf_p"
+                        },
+
+                        {
+                            "id": 211,
+                            "name": "Persian",
+                            "fmName": "Persian",
+                            "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-farsa"
+                        },
+
+                        {
+                            "id": 212,
+                            "name": "Ulster",
+                            "fmName": "Ulster",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p"
+                        },
+
+                        {
+                            "id": 213,
+                            "name": "Scotland",
+                            "fmName": "Scotland",
+                            "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p"
                         }
                     ]
                 }
