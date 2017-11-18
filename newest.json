@@ -2,109 +2,6 @@
     "version": 130,
     "areas": [
         {
-            "id": 1,
-            "name": "广东",
-            "stations": [
-                {
-                    "id": 11,
-                    "name": "广州",
-                    "channels": [
-                        {
-                            "id": 111,
-                            "name": "新闻广播",
-                            "fmName": "FM 91.4",
-                            "url": "http://ctt5.rgd.com.cn/fm914"
-                        },
-
-                        {
-                            "id": 112,
-                            "name": "珠江经济台",
-                            "fmName": "FM 97.4",
-                            "url": "http://ctt5.rgd.com.cn/fm974"
-                        },
-
-                        {
-                            "id": 113,
-                            "name": "音乐之声",
-                            "fmName": "FM 99.3",
-                            "url": "http://ctt5.rgd.com.cn/fm993"
-                        },
-
-                        {
-                            "id": 114,
-                            "name": "城市之声",
-                            "fmName": "FM 103.6",
-                            "url": "http://ctt5.rgd.com.cn/fm1036"
-                        },
-
-                        {
-                            "id": 115,
-                            "name": "南方生活广播",
-                            "fmName": "FM 93.6",
-                            "url": "http://ctt5.rgd.com.cn/fm936"
-                        },
-
-                        {
-                            "id": 116,
-                            "name": "交通之声",
-                            "fmName": "FM 105.2",
-                            "url": "http://ctt5.rgd.com.cn/fm1052"
-                        },
-
-                        {
-                            "id": 117,
-                            "name": "文体之声",
-                            "fmName": "FM 107.7",
-                            "url": "http://ctt5.rgd.com.cn/fm1077"
-                        },
-
-                        {
-                            "id": 118,
-                            "name": "股市广播",
-                            "fmName": "FM 95.3",
-                            "url": "http://ctt5.rgd.com.cn/fm953"
-                        },
-
-                        {
-                            "id": 119,
-                            "name": "南粤之声",
-                            "fmName": "FM 105.7",
-                            "url": "http://ctt5.rgd.com.cn/fm1057"
-                        },
-
-                        {
-                            "id": 1110,
-                            "name": "故事频道",
-                            "fmName": "Story",
-                            "url": "http://ctt5.rgd.com.cn/story"
-                        },
-
-                        {
-                            "id": 1111,
-                            "name": "大学生频道",
-                            "fmName": "FM 97.4",
-                            "url": "http://ctt5.rgd.com.cn/fm974"
-                        },
-
-                        {
-                            "id": 1112,
-                            "name": "果酱电台",
-                            "fmName": "FM 99.3",
-                            "url": "http://ctt5.rgd.com.cn/fm993"
-                        },
-
-                        {
-                            "id": 1113,
-                            "name": "HIFI 频道",
-                            "fmName": "HIFI",
-                            "url": "http://ctt5.rgd.com.cn/hifi"
-                        }
-                    ]
-                }
-            ]
-        },
-
-        {
             "id": 2,
             "name": "BBC",
             "stations": [
@@ -289,6 +186,240 @@
                             "name": "VOA Africa",
                             "fmName": "Africa",
                             "url": "https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "name": "中国广播",
+            "stations": [
+                {
+                    "id": 41,
+                    "name": "中国广播",
+                    "channels": [
+                        {
+                            "id": 411,
+                            "name": "中国之声",
+                            "fmName": "FM 106.1",
+                            "url": "http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 412,
+                            "name": "经济之声",
+                            "fmName": "FM 96.6",
+                            "url": "http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 413,
+                            "name": "音乐之声",
+                            "fmName": "FM 90.0",
+                            "url": "http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 414,
+                            "name": "经典音乐广播",
+                            "fmName": "FM 101.8",
+                            "url": "http://ngcdn004.cnr.cn/live/dszs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 415,
+                            "name": "中华之声",
+                            "fmName": "FM 102.5",
+                            "url": "http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 416,
+                            "name": "神州之声",
+                            "fmName": "FM 108.9",
+                            "url": "http://ngcdn006.cnr.cn/live/szzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 417,
+                            "name": "华夏之声",
+                            "fmName": "FM 87.8",
+                            "url": "http://ngcdn007.cnr.cn/live/hxzs/index.m3u8"
+                        },
+
+                        {
+                            "id": 418,
+                            "name": "香港之声",
+                            "fmName": "FM 109.8",
+                            "url": "http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 419,
+                            "name": "民族之声",
+                            "fmName": "FM 88.1",
+                            "url": "http://ngcdn009.cnr.cn/live/mzzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 420,
+                            "name": "文艺之声2",
+                            "fmName": "AM 747",
+                            "url": "http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 421,
+                            "name": "老年之声2",
+                            "fmName": "FM 105.3",
+                            "url": "http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 422,
+                            "name": "维语广播2",
+                            "fmName": "FM 90.6",
+                            "url": "http://ngcdn013.cnr.cn/live/wygb48/index.m3u8"
+                        },
+
+                        {
+                            "id": 423,
+                            "name": "藏语广播2",
+                            "fmName": "AM 1098",
+                            "url": "http://ngcdn012.cnr.cn/live/zygb48/index.m3u8"
+                        },
+
+                        {
+                            "id": 424,
+                            "name": "娱乐广播2",
+                            "fmName": "AM 747",
+                            "url": "http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8"
+                        },
+
+                        {
+                            "id": 425,
+                            "name": "高速广播2",
+                            "fmName": "FM 99.6",
+                            "url": "http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8"
+                        },
+
+                        {
+                            "id": 426,
+                            "name": "乡村之声2",
+                            "fmName": "AM 720",
+                            "url": "http://ngcdn017.cnr.cn/live/xczs48/index.m3u8"
+                        },
+
+                        {
+                            "id": 427,
+                            "name": "哈语广播2",
+                            "fmName": "乌鲁木齐中波1008",
+                            "url": "http://ngcdn025.cnr.cn/live/hygb48/index.m3u8"
+                        },
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": 1,
+            "name": "广东",
+            "stations": [
+                {
+                    "id": 11,
+                    "name": "广州",
+                    "channels": [
+                        {
+                            "id": 111,
+                            "name": "新闻广播",
+                            "fmName": "FM 91.4",
+                            "url": "http://ctt5.rgd.com.cn/fm914"
+                        },
+
+                        {
+                            "id": 112,
+                            "name": "珠江经济台",
+                            "fmName": "FM 97.4",
+                            "url": "http://ctt5.rgd.com.cn/fm974"
+                        },
+
+                        {
+                            "id": 113,
+                            "name": "音乐之声",
+                            "fmName": "FM 99.3",
+                            "url": "http://ctt5.rgd.com.cn/fm993"
+                        },
+
+                        {
+                            "id": 114,
+                            "name": "城市之声",
+                            "fmName": "FM 103.6",
+                            "url": "http://ctt5.rgd.com.cn/fm1036"
+                        },
+
+                        {
+                            "id": 115,
+                            "name": "南方生活广播",
+                            "fmName": "FM 93.6",
+                            "url": "http://ctt5.rgd.com.cn/fm936"
+                        },
+
+                        {
+                            "id": 116,
+                            "name": "交通之声",
+                            "fmName": "FM 105.2",
+                            "url": "http://ctt5.rgd.com.cn/fm1052"
+                        },
+
+                        {
+                            "id": 117,
+                            "name": "文体之声",
+                            "fmName": "FM 107.7",
+                            "url": "http://ctt5.rgd.com.cn/fm1077"
+                        },
+
+                        {
+                            "id": 118,
+                            "name": "股市广播",
+                            "fmName": "FM 95.3",
+                            "url": "http://ctt5.rgd.com.cn/fm953"
+                        },
+
+                        {
+                            "id": 119,
+                            "name": "南粤之声",
+                            "fmName": "FM 105.7",
+                            "url": "http://ctt5.rgd.com.cn/fm1057"
+                        },
+
+                        {
+                            "id": 1110,
+                            "name": "故事频道",
+                            "fmName": "Story",
+                            "url": "http://ctt5.rgd.com.cn/story"
+                        },
+
+                        {
+                            "id": 1111,
+                            "name": "大学生频道",
+                            "fmName": "FM 97.4",
+                            "url": "http://ctt5.rgd.com.cn/fm974"
+                        },
+
+                        {
+                            "id": 1112,
+                            "name": "果酱电台",
+                            "fmName": "FM 99.3",
+                            "url": "http://ctt5.rgd.com.cn/fm993"
+                        },
+
+                        {
+                            "id": 1113,
+                            "name": "HIFI 频道",
+                            "fmName": "HIFI",
+                            "url": "http://ctt5.rgd.com.cn/hifi"
                         }
                     ]
                 }
